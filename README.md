@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: [Facebook](https://www.facebook.com/rana.habib911/), [LinkedIn](https://www.linkedin.com/in/ranahabib/) or send an [Email](mailto:RanaHabib00@stud.cu.edu.eg).
 - 🔭 I'm currently learning Data Analysis and AI.
-- ⚡ Hobbies: 3D modelling, art, music and reading.
+- ⚡ Hobbies: 3D modelling, art, music, crafting, singing, playing video games and reading.
 <!--
 **RanaHabib00/RanaHabib00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
