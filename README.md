@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 <img align="left" src="https://img.icons8.com/color/30/000000/tableau-software.png"/>
 <img align="left" src="https://img.icons8.com/color/30/000000/ms-excel.png"/>
 <br />
+<br />
 
 <details>
   <summary>:zap: additional Languages and Tools:</summary>
