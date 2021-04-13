@@ -45,9 +45,6 @@ Here are some ideas to get you started:
 <img align="left" width="30px" src="https://skeptric.com/images/pandas.png"/>
 <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png"/>
 <img align="left" width="30px" src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png:large"/>
-
-<br />
-<br />
 <br />
 
 ### Tools:
@@ -59,9 +56,6 @@ Here are some ideas to get you started:
 <img align="left" width="30px" src="https://www.octoparse.com/media/4685/weka-logo.jpg"/>
 <img align="left" src="https://img.icons8.com/color/30/000000/tableau-software.png"/>
 <img align="left" src="https://img.icons8.com/color/30/000000/ms-excel.png"/>
-
-<br />
-<br />
 <br />
 
 <details>
