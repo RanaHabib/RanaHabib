@@ -32,18 +32,12 @@ Here are some ideas to get you started:
 [<img align="left" alt="https://www.facebook.com/rana.habib911/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftoutlook.svg" />](mailto:RanaHabib00@stud.cu.edu.eg)
 <br />
 
-### Languages:
+### Languages, Libraries and Frameworks:
 
 <img align="left"  src="https://img.icons8.com/color/50/000000/python.png"/>
 <img align="left" width="48px" src="https://iconfair.com/cepsools/2020/10/Artboard-6-13.png"/>
 <img align="left"  src="https://img.icons8.com/dusk/50/000000/java-coffee-cup-logo.png"/>
 <img align="left" align="left" src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"/>
-<br />
-<br />
-<br />
-
-### Libraries and Frameworks:
-
 <img align="left" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
 <img align="left" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png"/>
 <img align="left" width="48px" src="https://pytorch.org/assets/images/pytorch-logo.png"/>
