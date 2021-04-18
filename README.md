@@ -71,6 +71,7 @@ Here are some ideas to get you started:
 <img align="left" width="30px"  src="https://banner2.cleanpng.com/20180503/iwq/kisspng-php-computer-icons-mysql-media-logo-5aeb92a1bb9dc8.6244609315253879377685.jpg"/>
 <img align="left" width="30px" src="https://iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico"/>
 <br />
+<br />
 <!--END_SECTION:activity-->
 
 </details>
