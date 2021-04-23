@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Rana 👋
 
-### Account views: [![HitCount](http://hits.dwyl.com/{username}/{project}.svg)](http://hits.dwyl.com/{username}/{project})
-
 ## I study Data Analysis and AI.
 
 - 📫 How to reach me: [Facebook](https://www.facebook.com/rana.habib911/), [LinkedIn](https://www.linkedin.com/in/ranahabib/) or send an [Email](mailto:RanaHabib00@stud.cu.edu.eg).
