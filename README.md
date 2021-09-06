@@ -56,10 +56,3 @@ Here are some ideas to get you started:
 <img align="left" src="https://img.icons8.com/color/30/000000/ms-excel.png"/>
 <br />
 <br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="RanaHabib's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RanaHabib&show_icons=true&theme=radical&hide_border=true" />
-
-</details>
