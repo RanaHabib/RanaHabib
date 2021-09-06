@@ -58,25 +58,6 @@ Here are some ideas to get you started:
 <br />
 
 <details>
-  <summary>:zap: additional Languages and Tools:</summary>
-  
-<!--START_SECTION:activity-->
-<img align="left" src="https://img.icons8.com/color/30/000000/dart.png"/>
-<img align="left" src="https://img.icons8.com/color/30/000000/flutter.png"/>
-<img align="left" width="30px"  src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png"/>
-<img align="left" width="30px"  src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png"/>
-<img align="left" width="30px"  src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png"/>
-<img align="left" width="30px"  src="https://banner2.cleanpng.com/20180503/iwq/kisspng-php-computer-icons-mysql-media-logo-5aeb92a1bb9dc8.6244609315253879377685.jpg"/>
-<img align="left" width="30px" src="https://iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico"/>
-<br />
-<br />
-<!--END_SECTION:activity-->
-
-</details>
-
-
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="RanaHabib's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RanaHabib&show_icons=true&theme=radical&hide_border=true" />
