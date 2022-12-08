@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Rana 👋
 
-## I study Data Analysis and AI.
+## I study Data Analysis and Data science.
 
 - 📫 How to reach me: [Facebook](https://www.facebook.com/rana.habib911/), [LinkedIn](https://www.linkedin.com/in/ranahabib/) or send an [Email](mailto:RanaHabib00@stud.cu.edu.eg).
 - ⚡ Hobbies: 3D modelling, art, music, crafting, singing, playing video games and reading.
